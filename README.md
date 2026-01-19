@@ -1,5 +1,5 @@
 # 💫 About Me:
-### print("**Hello, World!**") 👋<br>This is Shakur.<br><br>Began my career journey as a hospitality worker, now here I am... personalizing my Github.
+### print("**Hello, World!**") 👋<br>This is Shakur.<br><br>Began my career journey as a commis cook, now here I am... personalizing my Github.
 
 
 ## 🌐 Socials:
